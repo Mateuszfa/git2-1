@@ -10,4 +10,4 @@ v 1.0
 - obsluge osob do 40
 
 v1.1
-- [ ] zwiekszenie limitu wieku do 65
+- [x] zwiekszenie limitu wieku do 65
