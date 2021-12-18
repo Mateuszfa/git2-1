@@ -19,10 +19,7 @@ if sex == 'k':
     else:
         exit('jesteś za młoda!')
 elif sex =='m':
-    print('Ta aplikacja nie jest dla facetow, sorry!')
-    exit()
-
-
+    exit('Ta aplikacja nie jest dla facetow, sorry!')
 
 sex = input('[k]obieta czy [m]ezczyzna ?:')
 if sex == 'k':
