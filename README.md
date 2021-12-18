@@ -1,6 +1,6 @@
 # Pierwszy projekt git
 
-stworzono z <3 do [zobacz link] (http://www.wsb.pl)
+
 
 ## Aplikacja dla osob pelnoletnich
 
@@ -17,3 +17,5 @@ v2.0
 - [x] aplikacja obsluguje wylacznie kobiety
 - v2.1
 - [x] poprawiona walidacja wyboru plci
+
+stworzono z <3 do [zobacz link] (http://www.wsb.pl)
