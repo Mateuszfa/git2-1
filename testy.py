@@ -1,5 +1,5 @@
 sex = input('[k]obieta czy [m]ezczyzna ?:')
-if sex =="k":
+if sex.isdigit() =="k":
     print("mozesz uzywac aplikacji Droga pani")
 else:
     print("ej to jest tylko dla kobiet")
