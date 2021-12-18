@@ -4,6 +4,7 @@
 
 ## Aplikacja dla osob pelnoletnich
 
+
 Funkcje aplikacji:
 v.1.0
 - obsluge osob doroslych

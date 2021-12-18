@@ -1,3 +1,4 @@
+
 world  = input('[u]sa czy [e]uropa?: ')
 if world =='u':
     print("witaj w USA! ")
