@@ -1,3 +1,11 @@
+world = input("where are you from: [e]urop czy [u]sa")
+if world == "e"
+
+
+
+
+
+
 sex = input('[k]obieta czy [m]ezczyzna ?:')
 if sex.isdigit() =="k":
     print("mozesz uzywac aplikacji Droga pani")
