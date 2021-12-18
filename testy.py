@@ -14,6 +14,7 @@ if sex == 'k':
     wiek = int(wiek)
     if wiek >= 18 and wiek <= 65:
         print("Witamy w aplikacji i smacznej degustacji!")
+        exit()
     elif wiek > 65:
         print("Jesteś już za stara na alkohol")
     else:
