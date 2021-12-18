@@ -16,4 +16,4 @@ v1.1
 v2.0
 - [x] aplikacja obsluguje wylacznie kobiety
 - v2.1
-- [ ] poprawiona walidacja 
+- [x] poprawiona walidacja wyboru plci
